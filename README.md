@@ -21,13 +21,13 @@
 
 ## Overview
 
-Head of AI at Samba.tv, focused on building production-scale agentic AI systems and the infrastructure that powers them. I design and implement AI agent architectures, Model Context Protocol integrations, and automation frameworks that operate at enterprise scale.
+Head of AI at Samba, focused on building production-scale agentic AI systems and the infrastructure that powers them. I design and implement AI agent architectures, Model Context Protocol integrations, and automation frameworks that operate at enterprise scale.
 
 My work spans the full stack: from AI strategy and system design to hands-on implementation of multi-agent orchestration platforms.
 
 ```yaml
 role: Head of AI
-organization: Samba.tv
+organization: Samba
 location: Los Angeles, California
 specialization: AI Agent Infrastructure & Systems
 
