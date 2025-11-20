@@ -13,6 +13,8 @@
 **AI AGENT INFRASTRUCTURE & MULTI-AGENT ORCHESTRATION**
 
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddani)
+[![TWITTER](https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/siddaniagi)
+[![YOUTUBE](https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@siddani09)
 
 </div>
 
