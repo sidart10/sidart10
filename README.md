@@ -1,26 +1,19 @@
 <div align="center">
 
-# Sid Dani
+```
+█████████████████████████████████████████████████████████████████
+█                                                               █
+█                         SID DANI                             █
+█                                                               █
+█                    HEAD OF AI, SAMBA                          █
+█                                                               █
+█████████████████████████████████████████████████████████████████
+```
 
-**Head of AI, Samba**
+**AI AGENT INFRASTRUCTURE & MULTI-AGENT ORCHESTRATION**
 
-Building AI agent infrastructure and multi-agent orchestration systems
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddani)
-
-</div>
-
----
-
-<div align="center">
-
-## GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=sidart10&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sidart10&layout=compact&theme=transparent&hide_border=true&langs_count=8)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=sidart10&theme=transparent&hide_border=true)
+[![](https://img.shields.io/badge/-LINKEDIN-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/siddani)
+[![](https://img.shields.io/badge/-GITHUB-black?style=for-the-badge&logo=github)](https://github.com/sidart10)
 
 </div>
 
@@ -28,6 +21,18 @@ Building AI agent infrastructure and multi-agent orchestration systems
 
 <div align="center">
 
-**Building the infrastructure for next-generation AI agents**
+![](https://github-readme-stats.vercel.app/api?username=sidart10&show_icons=true&theme=dark&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=sidart10&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true&height=250)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sidart10&layout=compact&theme=dark&bg_color=000000&text_color=ffffff&title_color=ffffff&hide_border=true&langs_count=8)
+
+</div>
+
+---
+
+<div align="center">
+
+**BUILDING PRODUCTION AI INFRASTRUCTURE AT SCALE**
 
 </div>
