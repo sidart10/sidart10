@@ -18,6 +18,30 @@
 
 ---
 
+## FEATURED PROJECTS
+
+<div align="center">
+
+[![Beru AI Assistant](https://github-readme-stats.vercel.app/api/pin/?username=sidart10&repo=dailyagents&theme=transparent&hide_border=true)](https://github.com/sidart10/dailyagents)
+[![Claude Code Plugins](https://github-readme-stats.vercel.app/api/pin/?username=sidart10&repo=claude-code-plugins&theme=transparent&hide_border=true)](https://github.com/sidart10/claude-code-plugins)
+
+[![Databricks MCP](https://github-readme-stats.vercel.app/api/pin/?username=sidart10&repo=databrics-mcp-server&theme=transparent&hide_border=true)](https://github.com/sidart10/databrics-mcp-server)
+[![GenAI Toolbox](https://github-readme-stats.vercel.app/api/pin/?username=sidart10&repo=genai-toolbox&theme=transparent&hide_border=true)](https://github.com/sidart10/genai-toolbox)
+
+</div>
+
+### PROJECT CATEGORIES
+
+**[MCP Server Infrastructure](https://github.com/sidart10?tab=repositories&q=topic:mcp)** - Production connectors for AI agent integration
+
+**[AI Agent Systems](https://github.com/sidart10?tab=repositories&q=topic:ai-agents)** - Multi-agent orchestration and automation platforms
+
+**[Enterprise AI Tools](https://github.com/sidart10?tab=repositories&q=topic:enterprise-ai)** - Samba internal AI infrastructure
+
+**[Developer Tools](https://github.com/sidart10?tab=repositories&q=topic:developer-tools)** - Claude Code plugins and AI-assisted development
+
+---
+
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=sidart10&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
@@ -30,22 +54,6 @@
 
 <div align="center">
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=sidart10&theme=high-contrast&hide_border=true&area=true&height=250)
-
-</div>
-
----
-
-<div align="center">
-
-[![](https://github-profile-trophy.vercel.app/?username=sidart10&theme=flat&no-frame=true&no-bg=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-<div align="center">
-
-**BUILDING PRODUCTION AI INFRASTRUCTURE AT SCALE**
+**PRODUCTION AI INFRASTRUCTURE AT SCALE**
 
 </div>
