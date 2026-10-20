@@ -1,0 +1,32 @@
+name: Profile metrics
+
+on:
+  schedule:
+    - cron: "47 13 * * *" # daily, ~6:30am PT
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      # METRICS_TOKEN: classic PAT with repo + read:user scopes, so private work is counted.
+      - uses: lowlighter/metrics@v3.34
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.svg
+          committer_message: "Update profile metrics"
+          config_timezone: America/Los_Angeles
+          config_display: large
+          base: header, activity, community, repositories
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_ignored: html, css, scss, shell, dockerfile, makefile, mdx
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: B
