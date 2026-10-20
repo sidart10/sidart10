@@ -45,7 +45,7 @@ Head of AI Product at **Samba**, where I lead the AI Task Force. On my own time 
 <div align="center">
 
 <!-- Generated daily by .github/workflows/metrics.yml (lowlighter/metrics, counts private work) -->
-<!-- METRICS: <img src="metrics.svg" alt="GitHub metrics" width="100%" /> -->
+<img src="metrics.svg" alt="GitHub metrics" width="100%" />
 
 <!-- Generated daily by .github/workflows/snake.yml (Platane/snk) -->
 <picture>
