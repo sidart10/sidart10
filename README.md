@@ -3,7 +3,7 @@
 <img src="assets/header.svg" width="100%" alt="Sid Dani, Head of AI Product at Samba" />
 
 [![Website](https://img.shields.io/badge/siddani.com-000000?style=flat-square&logo=googlechrome&logoColor=FFFFFF&labelColor=000000)](https://siddani.com)
-[![YouTube](https://img.shields.io/badge/YouTube-000000?style=flat-square&logo=youtube&logoColor=FFFFFF&labelColor=000000)](https://youtube.com/@siddani09)
+[![YouTube](https://img.shields.io/badge/YouTube-000000?style=flat-square&logo=youtube&logoColor=FFFFFF&labelColor=000000)](https://youtube.com/@thesiddani)
 [![X](https://img.shields.io/badge/@siddaniagi-000000?style=flat-square&logo=x&logoColor=FFFFFF&labelColor=000000)](https://x.com/siddaniagi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=FFFFFF&labelColor=000000)](https://www.linkedin.com/in/siddani)
 
@@ -38,7 +38,7 @@ Head of AI Product at **Samba**, where I lead the AI Task Force. On my own time 
 ### Teaching
 
 - **[Mastering Claude Code](https://claude-code-course-beryl.vercel.app/)**: a free, in-depth course on Claude Code ([GitHub Pages edition](https://the-sid-dani.github.io/mastering-claude-code/)).
-- Videos on agents and automation at [youtube.com/@siddani09](https://youtube.com/@siddani09).
+- Videos on agents and automation at [youtube.com/@thesiddani](https://youtube.com/@thesiddani).
 
 ### Activity
 
